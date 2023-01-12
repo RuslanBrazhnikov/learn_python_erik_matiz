@@ -27,6 +27,7 @@ class Restaurant():
     def __init__(self, restaurant_name, cuisine_type):
         self.restaurant_name = restaurant_name
         self.cisine_type = cuisine_type
+        self.
 
     def describe_restaurant(self):
         print(f'{self.restaurant_name} {self.cisine_type}')
